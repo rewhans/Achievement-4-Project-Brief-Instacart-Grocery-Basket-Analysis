@@ -54,7 +54,7 @@ Several types of charts were used to communicate insights, including:
 
 ## File Structure
 
-
+```
 📁 Achievement-4-Project-Brief-Instacart-Grocery-Basket-Analysis/
 ├── 01_Project Management/
 │   ├── A4_Data_Immersion_Project_Brief.pdf
@@ -104,7 +104,7 @@ Several types of charts were used to communicate insights, including:
 ├── 05_Sent to Client//
 │   ├── Ryan_Wick_Data Analytics Immersion_Ach 04_Final Report.xlsx
 ├── README.md
-
+```
 ---
 
 ## Data Sources & Ethics
