@@ -52,9 +52,58 @@ Several types of charts were used to communicate insights, including:
 
 ---
 
-## Final Deliverables
+## File Structure
 
-PLACE HOLDER
+Achievement-4-Project-Brief-Instacart-Grocery-Basket-Analysis
+📁 Achievement-1-and-2-Project-Preparing-for-Influenza-Season/
+├── 01_Project Management/
+│   ├── A4_Data_Immersion_Project_Brief.pdf
+├── 03_Scripts/
+│   ├── 04.02_Task-Importing libraries and Python data types.ipynb
+│   ├── 04.03_IC Data import and descriptive analysis.ipynb
+│   ├── 04.03_Task-IC Data import and descriptive analysis.ipynb
+│   ├── 04.04_Data Wrangling and Subsetting.ipynb
+│   ├── 04.04_Task-Data Wrangling and Subsetting.ipynb
+│   ├── 04.05_Data Consistency Checks.ipynb
+│   ├── 04.05_Task-Data Consistency Checks.ipynb
+│   ├── 04.06_Combining & Exporting Data.ipynb
+│   ├── 04.06_Task-Combining & Exporting Data.ipynb
+│   ├── 04.07_Deriving New Variables.ipynb
+│   ├── 04.07_Task-Deriving New Variables.ipynb
+│   ├── 04.08_Grouping Data and Aggregating Variables.ipynb
+│   ├── 04.08_Task-Grouping Data & Aggregating Variables.ipynb
+│   ├── 04.09_Intro to Data Visualization with Python.ipynb
+│   ├── 04.09_Task-Pt 1-Intro to Data Visualization with Python.ipynb
+│   ├── 04.09_Task-Pt 2-Intro to Data Visualization with Python.ipynb
+│   ├── 04.10_Task-Coding Etiquette & Excel Reporting.ipynb
+│   ├── Scratch Sheet.ipynb
+├── 04_Analysis/
+│   ├── 04.01_Reports/
+│   ├── 04.02_Test Files/
+│   ├── 04.03_Visualizations/
+│   │   ├── 04.09_bar_orders_dow.png
+│   │   ├── 4.9_line_price_orders_day_of_week.png
+│   │   ├── 4.9_Task_pt2_age_and_n_dependents.png
+│   │   ├── 4.9_Task_pt2_bar_loyalty_flag.png
+│   │   ├── 4.9_Task_pt2_expenditure_over_hours_of_day.png
+│   │   ├── 4.9_Task_pt2_hist_order_hour_of_day.png
+│   │   ├── 4.9_Task_pt2_scatterplot_age_spending_power.png
+│   │   ├── Distribution of Product Price Ranges.png
+│   │   ├── Heatmap profile min mean max for orders.png
+│   │   ├── Heatmap profile orders by regions.png
+│   │   ├── heatmap_profile_reg_dept.png
+│   │   ├── high and low spender line.png
+│   │   ├── Histogram_order_hour_of_day.png
+│   │   ├── Line orders based on hours of day.png
+│   │   ├── Line orders per day of week base on dept id.png
+│   │   ├── Line orders per hour based on price.png
+│   │   ├── Number of orders per loyalty flag.png
+│   │   ├── Orders per customer profile.png
+│   │   ├── profile_bar.png
+│   │   ├── Stacked bar graph Spending behavior based on provile.png
+├── 05_Sent to Client//
+│   ├── Ryan_Wick_Data Analytics Immersion_Ach 04_Final Report.xlsx
+├── README.md
 
 ---
 
