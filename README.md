@@ -54,8 +54,8 @@ Several types of charts were used to communicate insights, including:
 
 ## File Structure
 
-Achievement-4-Project-Brief-Instacart-Grocery-Basket-Analysis
-📁 Achievement-1-and-2-Project-Preparing-for-Influenza-Season/
+
+📁 Achievement-4-Project-Brief-Instacart-Grocery-Basket-Analysis/
 ├── 01_Project Management/
 │   ├── A4_Data_Immersion_Project_Brief.pdf
 ├── 03_Scripts/
