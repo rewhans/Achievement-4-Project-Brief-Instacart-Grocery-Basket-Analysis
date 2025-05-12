@@ -109,9 +109,9 @@ Several types of charts were used to communicate insights, including:
 
 ## Data Sources & Ethics
 
-- 📎 “The Instacart Online Grocery Shopping Dataset 2017”, accessed from Kaggle.
-- 🧑‍💼 Additional fabricated customer data provided by CareerFoundry.
-- 🔐 All data was handled with care for privacy and ethical use, focusing only on aggregated insights.
+- [📎 “The Instacart Online Grocery Shopping Dataset 2017”, accessed from Kaggle.](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+- [🧑‍💼 Additional fabricated customer data provided by CareerFoundry.](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+- NOTE: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <date>
 
 ---
 
